@@ -14,6 +14,7 @@
 ## About <a name = "about"></a>
 
 - A Project that mimics the Frontend part of reddit.
+- Reddit is a social news aggregation, content rating, and discussion website. Registered users (commonly referred to as "Redditors") submit content to the site such as links, text posts, images, and videos, which are then voted up or down by other members. Posts are organized by subject into user-created boards called "communities" or "subreddits". Submissions with more upvotes appear towards the top of their subreddit and, if they receive enough upvotes, ultimately on the site's front page. Reddit administrators moderate the communities. Moderation is also conducted by community-specific moderators
 
 ## Screen Video from the Website: <a name = "screen-video"></a>
 
